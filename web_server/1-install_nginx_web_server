@@ -2,7 +2,7 @@
 # Install nginx web server, and return a page when querying Nginx
 
 apt-get update
-apt-get -y install nginx
+apt-get install nginx
 
 echo "Holberton School" > /var/www/html/index.html
 
