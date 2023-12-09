@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
-#Web stack debugging 
+#Web stack debugging
+sudo service apache2 status 
 curl http://localhost:8081
 
