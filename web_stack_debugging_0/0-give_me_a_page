@@ -1,1 +1,4 @@
-Web stack debugging 
+#!/usr/bin/env bash
+#Web stack debugging 
+curl http://localhost:8081
+
